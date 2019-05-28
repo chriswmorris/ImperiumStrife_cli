@@ -2,7 +2,7 @@
 
 Note: This is the text-based game, while the GUI version is currently in progress
 
-<h2> Imperium Strife </h2>
+![alt text](https://github.com/chriswmorris/ImperiumStrife_cli/blob/master/title.png)
 <i>
 A Turn-Based Strategy Game <br>
 Chris Morris <br>
