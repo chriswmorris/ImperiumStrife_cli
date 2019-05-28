@@ -11,6 +11,12 @@ Chris Morris <br>
 github.com/chriswmorris/ <br>
 </i>
 
+How to run:
+
+<code>python3 ImperiumStrife.py </code>
+
+
+
 <h2> Game Pieces </h2>
 
 <h3> Soldiers </h3>
